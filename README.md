@@ -15,7 +15,7 @@
 ###
 
 <p align="left">Hi👋 I'm Nishika!<br><br>-
-  🔭 I’m  a 2nd year Computer Science Engineering student.<br>- 📚 I'm currently expanding and deepening my understanding and skillset of machine learning algorithmns   and principles.</p>
+  🔭 Computer Science Engineering student.<br>- 📚 expanding and deepening my understanding and skillset of machine learning algorithmns and principles.</p>
 
 ### 🛠️ What I've worked with-
 
