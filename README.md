@@ -14,4 +14,14 @@
 
 ###
 
-<p align="left">Hi👋 I'm Nishika!<br><br>- 🔭 I’m  a 2nd year Computer Science Engineering student.<br>- 📚 I'm currently expanding and deepening my understanding and skillset of machine learning algorithmns   and principles.</p>
+<p align="left">Hi👋 I'm Nishika!<br><br>-
+  🔭 I’m  a 2nd year Computer Science Engineering student.<br>- 📚 I'm currently expanding and deepening my understanding and skillset of machine learning algorithmns   and principles.</p>
+
+### 🛠️ What I've worked with-
+
+- **Languages:** Python, C++, SQL
+- **Machine Learning & AI:** TensorFlow, Keras, PyTorch, scikit-learn, OpenCV
+- **Orchestration & Data:** LangChain, LangGraph, ChromaDB, pandas, NumPy
+- **Developer Tools:** Git, GitHub, Google Colab, Jupyter Notebooks, Streamlit
+
+---
