@@ -19,9 +19,9 @@
 
 ### 🛠️ What I've worked with-
 
-- **Languages:** Python, C++, SQL
+- **Languages:** Python, SQL Cypher Query Language
 - **Machine Learning & AI:** TensorFlow, Keras, PyTorch, scikit-learn, OpenCV
-- **Orchestration & Data:** LangChain, LangGraph, ChromaDB, pandas, NumPy
+- **Orchestration & Data:** LangChain, LangGraph, ChromaDB,FAISS FalkorDB Strands pandas, NumPy
 - **Developer Tools:** Git, GitHub, Google Colab, Jupyter Notebooks, Streamlit
 
 ---
