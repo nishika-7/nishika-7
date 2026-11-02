@@ -20,8 +20,8 @@
 ### 🛠️ What I've worked with-
 
 - **Languages:** Python, SQL Cypher Query Language Java
-- **Machine Learning & AI:** TensorFlow, Keras, PyTorch, scikit-learn, OpenCV
-- **Orchestration & Data:** LangChain, LangGraph, ChromaDB,FAISS FalkorDB Strands pandas, NumPy
+- **Machine Learning & AI:** TensorFlow, Keras, PyTorch, scikit-learn
+- **Orchestration & Data:** LangChain, LangGraph, ChromaDB, FAISS FalkorDB Strands pandas, NumPy
 - **Developer Tools:** Git, GitHub, Google Colab, Jupyter Notebooks, Streamlit
 
 ---
