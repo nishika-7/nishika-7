@@ -15,7 +15,7 @@
 ###
 
 <p align="left">Hi👋 I'm Nishika!<br><br>-
-  🔭 Computer Science Engineering student.<br>- 📚 expanding and deepening my understanding and skillset of machine learning algorithmns and principles.</p>
+  🔭 Computer Science Engineering student.<br>- 📚 expanding and deepening my understanding and skillset of Agentic systems RAGs LLM APIs.</p>
 
 ### 🛠️ What I've worked with-
 
